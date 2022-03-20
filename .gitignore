@@ -1,0 +1,12 @@
+
+# dir
+logs
+
+# python
+*.pyc
+
+# database
+*.sqlite3
+
+# OS generated files
+.DS_Store
